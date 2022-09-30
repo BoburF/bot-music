@@ -1,0 +1,27 @@
+{
+  "name": "bot-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoburF/bot-music.git"
+  },
+  "keywords": [],
+  "author": "Bobur Abdullayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoburF/bot-music/issues"
+  },
+  "homepage": "https://github.com/BoburF/bot-music#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.9.2",
+    "telegram": "^2.12.5"
+  }
+}
